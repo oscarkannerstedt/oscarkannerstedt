@@ -9,6 +9,8 @@
 
 <h2>My Github Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oscarkannerstedt&theme=shadow-red&border_radius=10.2" alt="GitHub Streak" /></a>
+<a href="https://git.io/Github-stats"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="GitHub Streak" /></a>
+
 
 <!--
 **oscarkannerstedt/oscarkannerstedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
