@@ -1,7 +1,7 @@
 ![Header](./github-background.png)
 
 <h2>Technical skills</h2>
-
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
 - 👀 I’m interested in Frontend Webdevelopment
 - 🌱 I’m currently learning HTML/CSS/Javascript
