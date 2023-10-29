@@ -1,6 +1,11 @@
 ![Header](./github-background.png)
 
 <h2 align="center">Technical skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,html,css&theme=dark" />
+  </a>
+</p>
 
 
 - 👀 I’m interested in Frontend Webdevelopment
