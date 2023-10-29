@@ -1,7 +1,6 @@
 ![Header](./github-background.png)
 
 
-- 👋 Hi, I’m @oscarkannerstedt
 - 👀 I’m interested in Frontend Webdevelopment
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 👯 I’m looking to find contacts in the IT world and find internships remotely or in Varberg
