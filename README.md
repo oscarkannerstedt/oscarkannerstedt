@@ -9,7 +9,7 @@
 
 <h2>My Github Stats</h2>
 <a href="https://git.io/Github-stats"><img src="https://github-readme-stats.vercel.app/api?username=oscarkannerstedt&show_icons=true&theme=shadow-red&border_radius=10.2" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oscarkannerstedt&theme=shadow-red&border_radius=10.2" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oscarkannerstedt&theme=dark" alt="GitHub Streak" /></a>
 
 
 
