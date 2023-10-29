@@ -1,7 +1,7 @@
 ![Header](./github-background.png)
 
-<h2>Technical skills</h2>
-[![My Skills](https://skills.thijs.gg/icons?i=html5,css3,html,html5&theme=dark)](https://skills.thijs.gg)
+<h2 align="center">Technical skills</h2>
+
 
 - 👀 I’m interested in Frontend Webdevelopment
 - 🌱 I’m currently learning HTML/CSS/Javascript
