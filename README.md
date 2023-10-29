@@ -1,5 +1,7 @@
 ![Header](./github-background.png)
 
+<h2>Technical skills</h2>
+
 
 - 👀 I’m interested in Frontend Webdevelopment
 - 🌱 I’m currently learning HTML/CSS/Javascript
