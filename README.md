@@ -1,3 +1,6 @@
+![Header](./github-background.png)
+
+
 - 👋 Hi, I’m @oscarkannerstedt
 - 👀 I’m interested in Frontend Webdevelopment
 - 🌱 I’m currently learning HTML/CSS/Javascript
