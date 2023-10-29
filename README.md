@@ -3,7 +3,7 @@
 <h2 align="">Technical skills</h2>
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,js,reacthtml,css,sass&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,js,react,html,css,sass&theme=dark" />
   </a>
 </p>
 
