@@ -8,10 +8,10 @@
 </p>
 
 <h2>About me</h2>
-- 👀 I’m interested in Frontend Webdevelopment
-- 🌱 I’m currently learning HTML/CSS/Javascript
-- 👯 I’m looking to find contacts in the IT world and find internships remotely or in Varberg
-- 📫 How to reach me: email me at oscar.kannerstedt@gmail.com
+<p>- 👀 I’m interested in Frontend Webdevelopment</p>
+<p>- 🌱 I’m currently learning HTML/CSS/Javascript</p>
+<p>- 👯 I’m looking to find contacts in the IT world and find internships remotely or in Varberg</p>
+<p>- 📫 How to reach me: email me at oscar.kannerstedt@gmail.com</p>
 
 <h2>My Github Stats</h2>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=highcontrast&preferLogin=false"><img  alt="oscarkannerstedt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oscarkannerstedt?cardType=level&theme=highcontrast&preferLogin=false"/></a>
