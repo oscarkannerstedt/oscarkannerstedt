@@ -8,7 +8,7 @@
 </p>
 
 <h2>My Github Stats</h2>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=highcontrast&preferLogin=false"><img  alt="oscarkannerstedt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oscarkannerstedt?cardType=level&theme=highcontrast&preferLogin=false"/></a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=highcontrast&preferLogin=false"><img  alt="oscarkannerstedt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oscarkannerstedt?cardType=level&theme=highcontrast&preferLogin=false&hide_border=true&border_radius=10.2"/></a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oscarkannerstedt&theme=shadow-red&hide_border=true&border_radius=10.2" alt="GitHub Streak" /></a>
 
 
