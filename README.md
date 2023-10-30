@@ -8,7 +8,7 @@
 </p>
 
 <h2>My Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=oscarkannerstedt&theme=dark&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=oscarkannerstedt&theme=radical&show_icons=true&count_private=true" />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oscarkannerstedt&theme=shadow-red&hide_border=true&border_radius=10.2" alt="GitHub Streak" /></a>
 
 
