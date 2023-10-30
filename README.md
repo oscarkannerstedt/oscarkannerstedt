@@ -7,6 +7,12 @@
   </a>
 </p>
 
+<h2>About me</h2>
+- 👀 I’m interested in Frontend Webdevelopment
+- 🌱 I’m currently learning HTML/CSS/Javascript
+- 👯 I’m looking to find contacts in the IT world and find internships remotely or in Varberg
+- 📫 How to reach me: email me at oscar.kannerstedt@gmail.com
+
 <h2>My Github Stats</h2>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=highcontrast&preferLogin=false"><img  alt="oscarkannerstedt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oscarkannerstedt?cardType=level&theme=highcontrast&preferLogin=false"/></a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oscarkannerstedt&theme=highcontrast" alt="GitHub Streak" /></a>
