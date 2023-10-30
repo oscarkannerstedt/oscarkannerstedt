@@ -14,10 +14,11 @@
 <p>- 📫 How to reach me: email me at oscar.kannerstedt@gmail.com</p>
 
 <h2>My Github Stats</h2>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=highcontrast&preferLogin=false"><img  alt="oscarkannerstedt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oscarkannerstedt?cardType=level&theme=highcontrast&preferLogin=false"/></a>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=highcontrast&preferLogin=false"><img  alt="oscarkannerstedt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oscarkannerstedt?cardType=level&theme=highcontrast&preferLogin=false"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarkannerstedt&layout=compact" />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=oscarkannerstedt&theme=highcontrast" alt="GitHub Streak" /></a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **oscarkannerstedt/oscarkannerstedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
