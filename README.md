@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">About me</h2>
-<p align="center" font-size="1.5rem"> 👀 I’m interested in Frontend Webdevelopment</p>
+<p align="center"> 👀 I’m interested in Frontend Webdevelopment</p>
 <p align="center">🌱 I’m currently learning HTML/CSS/Javascript</p>
 <p align="center">👯 I’m looking to find contacts in the IT world and <br> find internships remotely or in Varberg</p>
 <p align="center">📫 How to reach me: <br> email me at oscar.kannerstedt@gmail.com</p>
