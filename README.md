@@ -5,6 +5,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode,postman,html,css,sass,js,ts,nodejs,react&theme=dark" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,postman,html,css,sass,js,ts,nodejs,react&theme=dark" />
+  </a>
 </p>
 
 <h2 align="center">About me</h2>
