@@ -7,25 +7,35 @@
   </a>
 </p>
 -->
+## 🛠️ Tech Stack
+
 ### 👨‍💻 Programming
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" alt="TypeScript" />
+</p>
 
 ### 🌐 Development
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass" alt="Sass" />
+</p>
 
 ### 🎨 Graphic
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=adobe%20photoshop)
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-black?style=for-the-badge&logo=adobe%20photoshop" alt="Adobe Photoshop" />
+</p>
 
 ### 🛠️ Tools
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman" alt="Postman" />
+</p>
 
 <h2 align="center">About me</h2>
 <p align="center"> 👀 I’m interested in Frontend Webdevelopment</p>
