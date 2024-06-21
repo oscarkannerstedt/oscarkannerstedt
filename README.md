@@ -10,8 +10,12 @@
 <h2 align="center">🛠️ Tech Stack </h2>
 
 ### 👨‍💻 Programming
+<h3 align="center">👨‍💻 Programming</h3>
+<div>
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
