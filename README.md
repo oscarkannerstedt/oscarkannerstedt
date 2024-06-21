@@ -7,34 +7,27 @@
   </a>
 </p>
 -->
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack </h2>
 
 ### 👨‍💻 Programming
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" alt="TypeScript" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+  </a>
 </p>
 
 ### 🌐 Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass" alt="Sass" />
-</p>
-
-### 🎨 Graphic
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-black?style=for-the-badge&logo=adobe%20photoshop" alt="Adobe Photoshop" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,express&theme=dark" />
+  </a>
 </p>
 
 ### 🛠️ Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman" alt="Postman" />
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,nodejs,express,vite,vscode,postman,mysql,mongodb,jest,cypress,figma,photoshop&theme=dark" />
+  </a>
 </p>
 
 <h2 align="center">About me</h2>
