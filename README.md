@@ -7,7 +7,10 @@
   </a>
 </p>
 -->
-<h2 align="center">🛠️ Tech Stack </h2>
+## Front end developer
+
+👀 Studiyng to become a front end developer
+👯 Seeking internship opportunities in Frontend Development. Feel free to reach out to me via LinkedIn or email for collaborations and opportunities.
 
 ## Tech Stack
 
@@ -23,13 +26,18 @@
 | :-------- |
 | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%232C3A42.svg?style=for-the-badge&logo=vite&logoColor=%23F7A000) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
 
+## Get in touch
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/oscarkannerstedt/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&labelColor=red)](mailto:oscar.kannerstedt@gmail.com)
+
+<!--
 <h2 align="center">About me</h2>
 <p align="center"> 👀 I’m interested in Frontend Webdevelopment</p>
 <p align="center">🌱 I’m currently learning HTML/CSS/Javascript</p>
 <p align="center">👯 I’m looking to find contacts in the IT world and <br> find internships remotely or in Varberg</p>
 <p align="center">📫 How to reach me: <br> email me at oscar.kannerstedt@gmail.com</p>
-
+-->
 <h2 align="center">My Github Stats</h2>
 <div align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=highcontrast&preferLogin=false"><img alt="oscarkannerstedt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oscarkannerstedt?cardType=level&theme=highcontrast&preferLogin=false"/></a>
