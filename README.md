@@ -7,6 +7,8 @@
   </a>
 </p>
 -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
 <h2 align="center">🛠️ Tech Stack </h2>
 
 ### 👨‍💻 Programming
