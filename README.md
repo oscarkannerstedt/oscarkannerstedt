@@ -1,11 +1,31 @@
 ![Header](./github-background.png)
-
+<!--
 <h2 align="center">Technical skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    :computer: <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,github,vscode,postman,nodejs&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,nodejs,express,vite,vscode,postman,mysql,mongodb,jest,figma&theme=dark" />
   </a>
 </p>
+-->
+### 👨‍💻 Programming
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+### 🌐 Development
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+
+### 🎨 Graphic
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=adobe%20photoshop)
+
+### 🛠️ Tools
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 <h2 align="center">About me</h2>
 <p align="center"> 👀 I’m interested in Frontend Webdevelopment</p>
