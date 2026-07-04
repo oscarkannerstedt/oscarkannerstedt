@@ -1,8 +1,10 @@
 ![Header](./github-background.png)
 
-## Frontend Developer
+## Web Developer | Frontend Developer | Consultant
 
-👯 Seeking internship opportunities in Frontend Development. Feel free to reach out to me via LinkedIn or email for collaborations and opportunities.
+##Frontend Developer & Web Development Consultant 🚀
+Running my own consultancy business, currently contracted as a Web Developer. I help companies build modern, scalable, and user-friendly web applications, specializing in frontend technologies and tailored web solutions.
+💼 Available for future consulting roles, freelance contracts, and collaborations. Let's connect via LinkedIn or email!
 
 ## Tech Stack
 
