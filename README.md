@@ -1,9 +1,9 @@
 ![Header](./github-background.png)
 
-## Web Developer | Frontend Developer | Consultant
+## Frontend Developer & Web Development Consultant🚀
 
-##Frontend Developer & Web Development Consultant 🚀
 Running my own consultancy business, currently contracted as a Web Developer. I help companies build modern, scalable, and user-friendly web applications, specializing in frontend technologies and tailored web solutions.
+
 💼 Available for future consulting roles, freelance contracts, and collaborations. Let's connect via LinkedIn or email!
 
 ## Tech Stack
