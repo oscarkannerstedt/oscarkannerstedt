@@ -1,4 +1,4 @@
-![Header](./github-background.png)
+![Header](https://github.com/user-attachments/assets/ff1e2a87-7562-4f9b-af0a-f80426e59283)
 
 ## Frontend Developer & Web Development Consultant🚀
 
