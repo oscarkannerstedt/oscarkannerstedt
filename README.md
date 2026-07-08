@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/1a3518ad-b004-485e-be67-e1fb233c18c8)
+![Header](https://github.com/user-attachments/assets/5095f112-ae1a-491d-916f-520f99ac6dd7)
 
 ## Frontend Developer & Web Development Consultant🚀
 
